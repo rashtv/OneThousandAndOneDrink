@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1000&amp;1Drink</string>
+    <string name="name_of_drink">Name of Drink</string>
+    <string name="search">Search It</string>
+    <string name="show">Show Saved</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instruction">Instruction:</string>
+    <string name="save">Save</string>
+    <string name="splashscreen">SplashScreen</string>
+</resources>
