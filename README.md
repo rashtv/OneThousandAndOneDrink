@@ -1,4 +1,10 @@
-# kbtu_android_project
+# Android Application: OneThousandAndOneDrink
+
+Application to search recipes for making cocktails.
+
+
+----
+
 The repository for Final Project on the Subject of Android Development
 
 In the folder 'drunkapp' you can find the files of this project based on android studio.
